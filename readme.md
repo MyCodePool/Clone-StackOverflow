@@ -9,7 +9,7 @@
     <img src="readme.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Git Demo Examples</h3>
+  <h3 align="center">Clone of StackOverflow</h3>
 
   <p align="center">
    StackOverflow.com is a plattform for developers to learn & share their programming knowledge (Laravel 9 + Vue.js)
