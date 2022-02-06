@@ -18,7 +18,11 @@
     <br />
 	<a href="https://github.com/MyCodePool/clone-stackoverflow/issues">Request Feature</a>
     <br />
-    <img src="commits.png" alt="Commit overview with a simple branch structure">
+	<!-- ABOUT THE PROJECT -->
+	## About The Project
+
+	Coming soon...
+	
   </p>
 </div>
 
